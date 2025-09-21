@@ -15,34 +15,6 @@ Users (visitors) can **view, add, edit, and delete posts**. The project uses **R
 - Responsive UI with **Bootstrap**  
 - Search posts by title  
 
----
-
-## Project Structure
-
-blog-platform/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── PostItem.jsx
-│   │   └── PostList.jsx
-│   │
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── PostDetails.jsx
-│   │   ├── CreatePost.jsx
-│   │   ├── EditPost.jsx
-│   │   └── NotFound.jsx
-│   │
-│   ├── App.js
-│   └── index.js
-│
-├── db.json
-├── package.json
-└── README.md
 
 
 ---
