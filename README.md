@@ -32,7 +32,7 @@ Users (visitors) can **view, add, edit, and delete posts**. The project uses **R
 ## Installation & Setup
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/LaizooDeveloper/blog-platform.git
 cd blog-platform
 npm install
 npm install -g json-server
